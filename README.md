@@ -113,7 +113,7 @@ The workbook contains:
 
 ## Presentation
 
-**[Strategy Deck — PPTX](presentation/Titan_EyePlus_Market_Expansion_Strategy.pptx)**
+**[Strategy Deck — PDF](presentation/Titan_EyePlus_Market_Expansion_Strategy.pdf)**
 
 ## Visual Exhibits
 
